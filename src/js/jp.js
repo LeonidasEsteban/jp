@@ -17,7 +17,7 @@ function getRandomInt(max) {
 }
 
 const randomCopy = getRandomInt(10);
-const randomImage = getRandomInt(18);
+const randomImage = getRandomInt(19);
 
 
 const $image = document.getElementById('image');
